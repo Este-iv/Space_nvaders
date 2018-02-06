@@ -1,0 +1,24 @@
+4/15.
+    Started the project.
+
+4/16.
+    Began stripping RLG For code.
+    Began to work on the gaurd.
+
+4/17.
+    ~making the game output, trying to attempt to make
+    some sort of barriers
+    ~ Having issues with the whole print out stuff
+4/18.
+  ~ i have to redo the whole code, kegan said it would be for the best
+  ~ Zach has helped me get back on my feet.
+  4/19 fixing display bugs i have with the code.
+
+  4/20
+  - cannot display the barriers or the player
+  - wierd out put now
+  4/21
+  -game is almost 100%
+    just need to be able to shoot..
+    cannot get that done.
+    

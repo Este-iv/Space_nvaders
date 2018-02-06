@@ -1,0 +1,24 @@
+issues
+-----------------------
+~ walls don't pop up.
+~ player is everywhere.
+~ cannot move
+~ text at the end of the move.
+~ movement is and has been added(for the most part.)
+-----------------------
+
+
+Need to implement
+-----------------------
+
+~ Blasts.
+~ scores
+~ displaying lives.
+~ way to end the game besides out of lives.
+----------------------- 
+
+Issues addressed.
+----------------------
+~ player Movement is fixed. 
+~ walls are showing. 
+~ character bug in the Aliens is fixed. 
